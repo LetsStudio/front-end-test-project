@@ -40,7 +40,7 @@ Le projet doit être rendu pour le **03/08/2018 à 17h**.
 
 ### Méthodes de livraison :
 - Si vous possédez un compte GitHub, déposez votre projet directement sur ce dépôt dans la branche *candidates* - *Nomenclature : NomPrenom_date*
-- Si vous ne possédez pas de compte GitHub, envoyez votre projet par mail (même nomenclature) à baptiste@lest-clic.com - Copie : melanie@lets-clic.com
+- Si vous ne possédez pas de compte GitHub, envoyez votre projet par mail (même nomenclature) à baptiste@lets-clic.com - Copie : melanie@lets-clic.com
 
 
 ## Quality Assurance
