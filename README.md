@@ -13,12 +13,13 @@ Convertir les maquettes suivantes en HTML/CSS/JS.
 ## Requirements
 1. Utiliser HTML5 / CSS ou SCSS (bonus) / jQuery
 2. Faire en sorte que l'intégration soit Responsive.
-3. Créer une modal au clic sur les blocs "Works".
-4. Créer tous les effets hover.
-5. Créer un système de Tabs pour les adresses des bureaux (Paris/London).
-6. *Tâche bonus optionnelle 1:* Utiliser SCSS plutôt que CSS
-7. *Tâche bonus optionnelle 2:* Utiliser le Framework Bootstrap 3 ou 4.
-8. *Tâche bonus optionnelle 3:* Mettre en place une structure Hn (H1, H2...)
+3. Créer un slider en cover.
+4. Créer une modal au clic sur les blocs "Works".
+5. Créer tous les effets hover.
+6. Créer un système de Tabs pour les adresses des bureaux (Paris/London).
+7. *Tâche bonus optionnelle 1:* Utiliser SCSS plutôt que CSS
+8. *Tâche bonus optionnelle 2:* Utiliser le Framework Bootstrap 3 ou 4.
+9. *Tâche bonus optionnelle 3:* Mettre en place une structure Hn (H1, H2...)
 
 ## Design
 Télécharger l'application Sketch (Version d'évaluation 30 jours - https://www.sketchapp.com/) pour pouvoir ouvrir le fichier source (OnePageFrontEndTest_0.1.sketch) 
