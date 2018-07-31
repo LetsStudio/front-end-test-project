@@ -35,11 +35,11 @@ S'assurer que les éléments fonctionnent et s'affichent correctement dans les n
 Le code doit être propre et lisible. 
 
 ## Project Deadline
-Le projet doit être rendu pour le **03/08/2018**.
+Le projet doit être rendu pour le **03/08/2018 à 17h**.
 
 ### Méthodes de livraison :
-- Déposez votre projet directement sur ce dépôt : dans un répertoire ou .zip nommé comme suit : NomPrenom_date
-- Envoyez votre projet par mail (même nomenclature) à baptiste@lest-clic.com - Copie : melanie@lets-clic.com
+- Si vous possédez un compte GitHub, déposez votre projet directement sur ce dépôt dans la branche *Candidates* - *Nomenclature : NomPrenom_date*
+- Si vous ne possédez pas de compte GitHub, envoyez votre projet par mail (même nomenclature) à baptiste@lest-clic.com - Copie : melanie@lets-clic.com
 
 
 ## Quality Assurance
