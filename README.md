@@ -35,7 +35,7 @@ S'assurer que les éléments fonctionnent et s'affichent correctement dans les n
 Le code doit être propre et lisible. 
 
 ## Project Deadline
-Le projet doit être rendu pour le **XX/XX/2018**.
+Le projet doit être rendu pour le **03/08/2018**.
 
 ### Méthodes de livraison :
 - Déposez votre projet directement sur ce dépôt : dans un répertoire ou .zip nommé comme suit : NomPrenom_date
