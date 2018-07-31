@@ -35,8 +35,12 @@ S'assurer que les éléments fonctionnent et s'affichent correctement dans les n
 Le code doit être propre et lisible. 
 
 ## Project Deadline
-Le projet doit être rendu pour le .
-Déposez votre projet directement sur ce dépôt ou à défaut envoyez-le par mail à baptiste@lest-clic.com - Copie : melanie@lets-clic.com
+Le projet doit être rendu pour le **XX/XX/2018**.
+
+### Méthodes de livraison :
+- Déposez votre projet directement sur ce dépôt : dans un répertoire ou .zip nommé comme suit : NomPrenom_date
+- Envoyez votre projet par mail (même nomenclature) à baptiste@lest-clic.com - Copie : melanie@lets-clic.com
+
 
 ## Quality Assurance
 Pour avoir le score maximum en terme de QA, vérifiez les points suivants:
