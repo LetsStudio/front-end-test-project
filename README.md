@@ -21,7 +21,7 @@ Convertir les maquettes suivantes en HTML/CSS/JS.
 8. *Tâche bonus optionnelle 3:* Mettre en place une structure Hn (H1, H2...)
 
 ## Design
-Télécharger l'application Sketch pour pouvoir ouvrir les fichiers sources (Version d'évaluation 30 jours - https://www.sketchapp.com/)
+Télécharger l'application Sketch (Version d'évaluation 30 jours - https://www.sketchapp.com/) pour pouvoir ouvrir le fichier source (OnePageFrontEndTest_0.1.sketch) 
 
 ## Supported browsers
 S'assurer que les éléments fonctionnent et s'affichent correctement dans les navigateurs suivants: 
