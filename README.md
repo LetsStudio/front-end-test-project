@@ -22,7 +22,7 @@ Convertir les maquettes suivantes en HTML/CSS/JS.
 9. *Tâche bonus optionnelle 3:* Mettre en place une structure Hn (H1, H2...)
 
 ## Design
-Télécharger l'application Sketch pour pouvoir ouvrir les fichiers sources (Version d'évaluation 30 jours - https://www.sketchapp.com/)
+Télécharger l'application Sketch (Version d'évaluation 30 jours - https://www.sketchapp.com/) pour pouvoir ouvrir le fichier source (OnePageFrontEndTest_0.1.sketch) 
 
 ## Supported browsers
 S'assurer que les éléments fonctionnent et s'affichent correctement dans les navigateurs suivants: 
@@ -36,8 +36,12 @@ S'assurer que les éléments fonctionnent et s'affichent correctement dans les n
 Le code doit être propre et lisible. 
 
 ## Project Deadline
-Le projet doit être rendu pour le .
-Déposez votre projet directement sur ce dépôt ou à défaut envoyez-le par mail à baptiste@lest-clic.com - Copie : melanie@lets-clic.com
+Le projet doit être rendu pour le **03/08/2018 à 17h**.
+
+### Méthodes de livraison :
+- Si vous possédez un compte GitHub, déposez votre projet directement sur ce dépôt dans la branche *candidates* - *Nomenclature : NomPrenom_date*
+- Si vous ne possédez pas de compte GitHub, envoyez votre projet par mail (même nomenclature) à baptiste@lest-clic.com - Copie : melanie@lets-clic.com
+
 
 ## Quality Assurance
 Pour avoir le score maximum en terme de QA, vérifiez les points suivants:
