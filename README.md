@@ -15,7 +15,7 @@ Convertir les maquettes suivantes en HTML/CSS/JS.
 2. Faire en sorte que l'intégration soit Responsive.
 3. Créer une modal au clic sur les blocs "Works".
 4. Créer tous les effets hover.
-5. Créer un système de Tabs pour les adresses des Bureaux (Paris/London).
+5. Créer un système de Tabs pour les adresses des bureaux (Paris/London).
 6. *Tâche bonus optionnelle 1:* Utiliser SCSS plutôt que CSS
 7. *Tâche bonus optionnelle 2:* Utiliser le Framework Bootstrap 3 ou 4.
 8. *Tâche bonus optionnelle 3:* Mettre en place une structure Hn (H1, H2...)
@@ -23,7 +23,7 @@ Convertir les maquettes suivantes en HTML/CSS/JS.
 ## Design
 Télécharger l'application Sketch pour pouvoir ouvrir les fichiers sources (Version d'évaluation 30 jours - https://www.sketchapp.com/)
 
-## supported browsers
+## Supported browsers
 S'assurer que les éléments fonctionnent et s'affichent correctement dans les navigateurs suivants: 
 
 - Firefox (dernière version)
