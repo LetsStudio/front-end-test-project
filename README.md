@@ -36,12 +36,9 @@ S'assurer que les éléments fonctionnent et s'affichent correctement dans les n
 ## Coding Standards
 Le code doit être propre et lisible. 
 
-## Project Deadline
-Le projet doit être rendu pour le **03/08/2018 à 17h**.
 
 ### Méthodes de livraison :
-- Si vous possédez un compte GitHub, déposez votre projet directement sur ce dépôt dans la branche *candidates* - *Nomenclature : NomPrenom_date*
-- Si vous ne possédez pas de compte GitHub, envoyez votre projet par mail (même nomenclature) à baptiste@lets-clic.com - Copie : melanie@lets-clic.com
+- Envoyez votre projet par mail (même nomenclature) à baptiste@lets-clic.com - Copie : tony@lets-clic.com, nina@lets-clic.com
 
 
 ## Quality Assurance
